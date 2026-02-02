@@ -5,7 +5,7 @@ This repository is a quickstart tutorial for [GitHub Spec-Kit](https://github.co
 ## Prerequisites
 
 - Windows PC
-- GitHub Copilot AI model
+- GitHub Copilot subscription/access
 
 ## Installation
 
