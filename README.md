@@ -44,6 +44,9 @@ specify init . --ai copilot --no-git
 2. Open the Copilot Chat UI
 3. You will see spec-kit custom slash commands available
 
+<img style="width: 50%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/cb96318d-ad0d-4d25-ba3e-69768cb40d47" />
+
+
 ## Available Slash Commands
 
 For a full list of available slash commands, see the [Spec-Kit README](https://github.com/github/spec-kit?tab=readme-ov-file#available-slash-commands).
